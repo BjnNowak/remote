@@ -140,7 +140,10 @@ footer{
     flex-direction: column;
     text-align: center;
     color: #43AA8B;
-    margin: 2rem 0 0rem 0;
+    font-size: 16px;
+    font-family: 'Barlow';
+    font-weight: 200;
+    margin: 2rem 0rem 0rem 0rem;
 }
 
 .socials{
@@ -148,18 +151,18 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 0rem 0rem 2rem -3rem;
+    margin: 0rem 0rem 0rem -2.5rem;
 }
 
 .socials li{
-    margin: 0 0px;
+    margin: 0 0 px;
 }
 
 .socials a{
     text-decoration: none;
     color: #fff;
-    border: 1.1px solid white;
-    padding: 0px;
+    /*border: 1.1px solid white;*/
+    padding: 5px;
     border-radius: 50%;
 }
 
