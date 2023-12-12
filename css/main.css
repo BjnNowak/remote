@@ -20,6 +20,17 @@ summary {
      padding: 0px 20px;
 }
 
+
+
+
+
+
+
+
+
+
+
+
 summary::-webkit-details-marker {
    display: none
 }
@@ -161,3 +172,15 @@ footer{
 .socials a:hover i{
     color: aqua;
 }
+
+
+/* link */
+a:link {
+  color: #FC9F5B;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
